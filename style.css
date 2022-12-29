@@ -1,0 +1,16 @@
+body{
+    background-color: #c9e9ed;
+}
+
+.container input{
+    color: black;
+    text-shadow: 10mm black;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgba(176,229,235,255); */
+
+}
+.ma{
+    color: black;
+    /* background-color: rgba(176,229,235,255); */
+}
